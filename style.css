@@ -259,3 +259,27 @@ nav ul li {
         border-radius: 0;
     }
 }
+
+
+@media screen and (max-width:450px) {
+    .songItem {
+
+        width: 75%;
+        padding: 10px 0px;
+    }
+
+    /* .songName {
+        width: 60%;
+    } */
+
+    .container {
+         width: 100%;
+        margin: 5px 0px; 
+        padding: 10px;
+    }
+    .songlistplay{
+        font-size: 12px;
+    }
+
+
+}
